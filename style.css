@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+.okenko{
+    background-color: aqua;
+    margin: 15px;
+    padding: 15px;
+    border:15px solid;
+
+}
+

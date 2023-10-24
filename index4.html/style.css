@@ -1,0 +1,27 @@
+.okenko{
+    background-color: aqua;
+    margin:auto;
+    width: 50%;
+    padding: 15px; 
+  }
+
+main{
+    display: flex;
+    justify-content: center;
+
+}
+.odsazení{
+    display: flex; 
+    justify-content: center;
+    margin: 15px 0px;
+
+}
+.button a{
+    background-color: blueviolet;
+    color: brown;
+    padding: 8px;
+
+
+}
+
+
